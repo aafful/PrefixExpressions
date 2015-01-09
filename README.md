@@ -8,6 +8,8 @@
 
 =>cd in the PrefixExpressions directory
 
+=> type "gradle build"
+
 =>to run type "java -cp build/classes/main PrefixExpressions data/data.txt"
    *This builds the PrefixExpressions and provides data/data.txt as a command line arguement
    *modify data/data.txt to evaluate expressions you want
