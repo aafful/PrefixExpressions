@@ -17,9 +17,13 @@
    
 Sample Output:
 Andrewss-MacBook-Pro:PrefixExpressions aafful$ java -cp build/classes/main PrefixExpressions data/data.txt
+					
 					+ * + - 1 2 4 3 6 = 15
+					
 					+ - * 2 3 4 5 = 10
+					
 					* + 2 3 4 = 20
+					
 					* + 1 7 3 = 24
  
  
