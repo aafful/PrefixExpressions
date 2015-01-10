@@ -8,22 +8,21 @@
 
 =>cd in the PrefixExpressions directory
 
-=> type "gradle build"
+=>type "gradle build" to build PrefixExpressions
 
-=>to run type "java -cp build/classes/main PrefixExpressions data/data.txt"
-   *This builds the PrefixExpressions and provides data/data.txt as a command line arguement
+=>type "java -cp build/classes/main PrefixExpressions data/data.txt" to rund and pass data/data.txt as a command line arguement
    *modify data/data.txt to evaluate expressions you want
    
    
 Sample Output:
 Andrewss-MacBook-Pro:PrefixExpressions aafful$ java -cp build/classes/main PrefixExpressions data/data.txt
 					
-					+ * + - 1 2 4 3 6 = 15
+			+ * + - 1 2 4 3 6 = 15
 					
-					+ - * 2 3 4 5 = 10
+			+ - * 2 3 4 5 = 10
 					
-					* + 2 3 4 = 20
+			* + 2 3 4 = 20
 					
-					* + 1 7 3 = 24
+			* + 1 7 3 = 24
  
  
