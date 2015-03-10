@@ -1,7 +1,6 @@
 # PrefixExpressions
  You are given a prefix expression. Write a program which evaluates it.
- Question can be found on :https://www.codeeval.com/open_challenges/7/
- 
+
 #Running PrefixExpressions (Make sure you have java and gradle installed)
 
 =>Using the terminal/command line, clone PrefixExpressions 
