@@ -1,4 +1,3 @@
-//URL:https://www.codeeval.com/open_challenges/7/
 
 import java.util.ArrayList;
 import java.util.Stack;
